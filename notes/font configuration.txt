@@ -1,0 +1,2 @@
+big hud letter: Arial Greek 24 (-5 line space)
+small hud letter: Arial Greek 14
